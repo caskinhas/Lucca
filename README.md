@@ -1,1 +1,1 @@
-lucca
+lucca - meu primeiro projeto
